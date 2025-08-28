@@ -3,35 +3,6 @@
 ## Visão Geral
 Projeto para coletar, organizar e analisar as tabelas salariais dos 27 Conselhos Regionais de Medicina Veterinária (CRMVs) do Brasil, identificando padrões e variações regionais.
 
-## Lista dos Conselhos
-- CRMV-AC (Acre)
-- CRMV-AL (Alagoas)
-- CRMV-AP (Amapá)
-- CRMV-AM (Amazonas)
-- CRMV-BA (Bahia)
-- CRMV-CE (Ceará)
-- CRMV-DF (Distrito Federal)
-- CRMV-ES (Espírito Santo)
-- CRMV-GO (Goiás)
-- CRMV-MA (Maranhão)
-- CRMV-MT (Mato Grosso)
-- CRMV-MS (Mato Grosso do Sul)
-- CRMV-MG (Minas Gerais)
-- CRMV-PA (Pará)
-- CRMV-PB (Paraíba)
-- CRMV-PR (Paraná)
-- CRMV-PE (Pernambuco)
-- CRMV-PI (Piauí)
-- CRMV-RJ (Rio de Janeiro)
-- CRMV-RN (Rio Grande do Norte)
-- CRMV-RS (Rio Grande do Sul)
-- CRMV-RO (Rondônia)
-- CRMV-RR (Roraima)
-- CRMV-SC (Santa Catarina)
-- CRMV-SP (São Paulo)
-- CRMV-SE (Sergipe)
-- CRMV-TO (Tocantins)
-
 ## Objetivos
 - Coletar as tabelas salariais disponíveis dos CRMVs.
 - Normalizar e consolidar os dados.
